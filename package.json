@@ -1,0 +1,21 @@
+{
+	"name": "locs-blocks",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "wp-scripts build src/js/locs-blocks.js src/js/border-box.js src/js/demo.js src/js/featured-page.js src/js/multiple-choice.js src/js/page-tree.js",
+		"start": "wp-scripts start src/js/locs-blocks.js src/js/border-box.js src/js/demo.js src/js/featured-page.js src/js/multiple-choice.js src/js/page-tree.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@wordpress/scripts": "^19.2.2"
+	},
+	"dependencies": {
+		"@wordpress/components": "^19.1.5",
+		"react-color": "^2.19.3"
+	}
+}

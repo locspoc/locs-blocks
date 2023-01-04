@@ -1,0 +1,129 @@
+Array
+(
+    [_wpnonce] => e524ceb1e6
+    [_wp_http_referer] => /helpinghand/wordpress/wp-admin/post.php?post=22058&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://localhost/helpinghand/wordpress/wp-admin/edit.php?post_type=page&paged=1
+    [_wp_original_http_referer] => https://localhost/helpinghand/wordpress/wp-admin/edit.php?post_type=page&paged=1
+    [post_ID] => 22058
+    [meta-box-order-nonce] => 3282ae7bf1
+    [closedpostboxesnonce] => 4aa18d7e6e
+    [samplepermalinknonce] => e6b81f0e53
+    [_acf_screen] => post
+    [_acf_post_id] => 22058
+    [_acf_validation] => 1
+    [_acf_nonce] => 
+    [_acf_changed] => 0
+    [yoast_free_metabox_nonce] => 73f4b1e609
+    [yoast_wpseo_focuskw] => retirement living vacancies
+    [yoast_wpseo_title] => Browse our Retirement Living Vacancies at Helping Hand
+    [yoast_wpseo_metadesc] => Browse our current retirement living vacancies across metropolitan Adelaide and the mid north of South Australia. Find your new home now!
+    [yoast_wpseo_linkdex] => 53
+    [yoast_wpseo_content_score] => 60
+    [yoast_wpseo_is_cornerstone] => false
+    [yoast_wpseo_estimated-reading-time-minutes] => 1
+    [yoast_wpseo_meta-robots-noindex] => 0
+    [yoast_wpseo_meta-robots-nofollow] => 0
+    [yoast_wpseo_meta-robots-adv] => 
+    [yoast_wpseo_canonical] => 
+    [yoast_wpseo_schema_page_type] => 
+    [yoast_wpseo_opengraph-title] => 
+    [yoast_wpseo_opengraph-description] => 
+    [yoast_wpseo_opengraph-image] => 
+    [yoast_wpseo_opengraph-image-id] => 
+    [yoast_wpseo_twitter-title] => 
+    [yoast_wpseo_twitter-description] => 
+    [yoast_wpseo_twitter-image] => 
+    [yoast_wpseo_twitter-image-id] => 
+    [screen] => mobile
+    [acf] => Array
+        (
+            [field_5b305a9508d45] => 
+            [field_5b305a9508d7b] => 
+            [field_5b3584b05c5c5] => 
+            [field_5b3038bf3f5af] => 0
+            [field_5b3470acfff4b] => Array
+                (
+                    [row-0] => Array
+                        (
+                            [field_5b3470ddfff4c] => Barryne Retirement Village, Belair
+                            [field_5b347104fff4d] => <strong>Two bedroom unit, $410,000</strong>
+
+Enjoy a self contained unit in the beautiful Adelaide foothills:
+<ul>
+ 	<li>Two bedrooms</li>
+ 	<li>Reverse cycle air conditioning</li>
+ 	<li>Separate laundry</li>
+ 	<li>Close to public transport</li>
+</ul>
+<em>This unit is offered as a <a href=\"https://localhost/helpinghand/wordpress/retirement-living/retirement-living-costs/\">Resident Funded Unit</a> (RFU)</em>
+
+<img class=\"alignnone size-medium wp-image-23342\" src=\"https://localhost/helpinghand/wordpress/wp-content/uploads/2019/07/Belair-Retirement-1-300x200.jpg\" alt=\"Exterior view of a retirement unit at Barryne Belair\" width=\"300\" height=\"200\" />
+
+<img class=\"alignnone size-medium wp-image-26973\" src=\"https://localhost/helpinghand/wordpress/wp-content/uploads/2021/08/retirement-unit-belair-kitchen-300x200.jpg\" alt=\"retirement unit belair kitchen\" width=\"300\" height=\"200\" />
+
+&nbsp;
+
+<strong>Two bedroom unit, $442,000</strong>
+
+Available mid-September, this self contained unit has been newly refurbished with:
+<ul>
+ 	<li>New kitchen, bathroom, separate laundry and toilet</li>
+ 	<li>Freshly painted roof and facade</li>
+ 	<li>Fully enclosed landscaped backyard with attached lock-up garages</li>
+ 	<li>Reverse cycle ducted air conditioning</li>
+ 	<li>Two bedrooms</li>
+ 	<li>Open plan living and dining</li>
+</ul>
+The following artists impressions give an idea of the finished look of the kitchen and laundry
+
+<img class=\"alignnone size-medium wp-image-26980\" src=\"https://localhost/helpinghand/wordpress/wp-content/uploads/2021/08/retirement-unit-belair-u30-kitchen-300x168.png\" alt=\"Barryne Belair retirement living unit 30 kitchen\" width=\"300\" height=\"168\" />
+
+<img class=\"alignnone size-medium wp-image-26979\" src=\"https://localhost/helpinghand/wordpress/wp-content/uploads/2021/08/retirement-unit-belair-u30-laundry-300x186.jpg\" alt=\"Barryne Belair retirement living unit 30 laundry\" width=\"300\" height=\"186\" />
+
+<em>This unit is offered as a <a href=\"https://localhost/helpinghand/wordpress/retirement-living/retirement-living-costs/\">Resident Funded Unit</a> (RFU)</em>
+
+&nbsp;
+
+Find out more about life in <a href=\"https://localhost/helpinghand/wordpress/retirement-living/belair/\">Belair</a>.
+                        )
+
+                    [row-1] => Array
+                        (
+                            [field_5b3470ddfff4c] => Port Pirie
+                            [field_5b347104fff4d] => <strong>One bedroom unit, $190 per week</strong>
+
+Enjoy regional living with more time to do the things you love. This unit features:
+<ul>
+ 	<li>One bedroom</li>
+ 	<li>Reverse cycle air conditioning</li>
+ 	<li>Self-contained kitchen</li>
+ 	<li>Separate laundry</li>
+ 	<li>Close to public transport</li>
+</ul>
+<img class=\"alignnone size-medium wp-image-26981\" src=\"https://localhost/helpinghand/wordpress/wp-content/uploads/2021/08/port-pirie-retirement-living-entrance-300x296.jpg\" alt=\"Port Pirie retirement living unit rental entrance\" width=\"300\" height=\"296\" />
+
+<img class=\"alignnone size-medium wp-image-26982\" src=\"https://localhost/helpinghand/wordpress/wp-content/uploads/2021/08/port-pirie-retirement-living-kitchen-300x289.jpg\" alt=\"Port Pirie retirement living unit rental kitchen\" width=\"300\" height=\"289\" />
+
+<em>This unit is offered as a <a href=\"https://localhost/helpinghand/wordpress/retirement-living/retirement-living-costs/\" target=\"_blank\" rel=\"noopener\">Rental Unit</a> (RU)</em>
+
+&nbsp;
+
+Find out more about life in <a href=\"https://localhost/helpinghand/wordpress/retirement-living/port-pirie/\" target=\"_blank\" rel=\"noopener\">Port Pirie</a>.
+                        )
+
+                )
+
+        )
+
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_author] => 1
+    [post_mime_type] => 
+    [ID] => 22058
+    [post_status] => publish
+)
